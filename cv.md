@@ -26,7 +26,7 @@
 
 ### My code:
 
-*Functions that help find the real number among the rest of the characters in C++*:
+  *Functions that help find the real number among the rest of the characters in C++*:
 (with the study and use of a function that has features that complicate the code)
 
 **action subfunction**:
@@ -95,8 +95,9 @@ float PROinput2()
 ```
 
 ### Experience:
-- [x] Project on matlab for univercity subject
-- [ ] Project on C++ for univercity subject
+- [x] Project on matlab for university subject
+- [ ] Project on C++ for university subject
+- [x] Other university ptojects
 
 ### Education: 
 
@@ -105,6 +106,7 @@ float PROinput2()
 * stepic
 * epam
 * english course
+* university coutce (before studiyng at univercity)
 
 2. **online learning**: 
 * youtube cource C++
